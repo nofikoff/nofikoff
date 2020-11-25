@@ -9,6 +9,8 @@ Application of the accumulated experience in projects with a high level of respo
 Intermediate level of English.
 Highly motivated to continuously develop my skills and grow professionally. 
 
+<a href='https://Novikov.ua/about'>Red More ...</a>
+
 ## Connect with me 
 <a href='https://www.linkedin.com/in/terminovo/'><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href='https://t.me/nofikoff'><img src="https://img.shields.io/badge/telegram-D14836?color=2CA5E0&style=for-the-badge&logo=telegram&logoColor=white" /></a>
 
