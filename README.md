@@ -52,12 +52,12 @@ Interactive platform with video subtitle synchronization for language learning
 - **Stack:** React, Laravel, FFmpeg, AWS (S3, CloudFront, SQS), Docker
 - **Features:** Video processing pipeline, spaced repetition algorithm, progress tracking
 
-### Booktivity.io - Multi-tenant Booking SaaS
+### [Booktivity.io](https://booktivity.io) - Multi-tenant Booking SaaS
 Complex booking management system for activity venues
 - **Stack:** Laravel, React, Elasticsearch, AWS (EC2, RDS, ElastiCache)
 - **Scale:** 20+ venues, 50K+ bookings, 1K+ concurrent users
 
-### Arber.ua - E-commerce Platform
+### [Arber.ua](https://arber.ua) - E-commerce Platform
 Outdoor equipment e-commerce with 1C accounting integration
 - **Stack:** Laravel, Next.js, PostgreSQL, Redis
 - **Integration:** 1C API, Stripe, Adyen payment gateways
@@ -78,12 +78,6 @@ Building React/Next.js platforms for 25 Volvo dealerships across Europe
 - Managing AWS infrastructure (ECS Fargate, RDS Multi-AZ, CloudFront)
 - Leading CI/CD implementation and technical SEO optimization
 - Achieved 120% organic traffic growth with 95+ Core Web Vitals score
-
----
-
-## GitHub Stats
-
-![Ruslan's GitHub stats](https://github-readme-stats.vercel.app/api?username=nofikoff&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117)
 
 ---
 
