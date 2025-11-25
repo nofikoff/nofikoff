@@ -67,12 +67,12 @@ Interactive platform with video subtitle synchronization
 - **Stack:** React, Laravel, FFmpeg, AWS, Docker
 - **Features:** Video processing pipeline, spaced repetition algorithm
 
-### Booktivity.io - Multi-tenant Booking SaaS
+### [Booktivity.io](https://Booktivity.io) - Multi-tenant Booking SaaS
 Complex booking management for activity venues
 - **Stack:** Laravel, React, Elasticsearch, AWS
 - **Scale:** 20+ venues, 50K+ bookings, 1K+ concurrent users
 
-### Arber.ua - E-commerce Platform
+### [Arber.ua](https://Arber.ua) - E-commerce Platform
 Outdoor equipment e-commerce with 1C integration
 - **Stack:** Laravel, Next.js, PostgreSQL, Redis
 - **Volume:** $500K+ monthly, 10K+ SKUs
