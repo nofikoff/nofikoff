@@ -24,7 +24,7 @@ In 2006, I founded my own agency. Grew it to **15 people**. Delivered **$2M+** i
 
 Today I architect platforms for **25 Volvo dealerships** across Europe. **150K+ monthly users**. **€2M+ in transactions**. Reduced costs by **30%** while improving performance by **65%**.
 
-At 50, I know exactly what I want: **Tech Lead role in early-stage startup**. Small team. Real ownership. Product decisions, not just ticket completion.
+I know exactly what I want: **Tech Lead role in early-stage startup**. Small team. Real ownership. Product decisions, not just ticket completion.
 
 ---
 
