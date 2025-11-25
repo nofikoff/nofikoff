@@ -1,95 +1,105 @@
 # Hi, I'm Ruslan Novikov 👋
 
-## 🔍 Currently seeking Tech Lead position in product startup
+## Technical Lead | Ex-Founder | Startup Builder
 
-**Senior Full Stack Developer** with **19+ years** of experience building scalable web applications, leading technical teams, and architecting cloud infrastructure.
-
----
-
-## 💼 What I Do
-
-```yaml
-Backend:   Laravel (8-11), Symfony, Node.js, RESTful APIs, GraphQL
-Frontend:  React.js, Next.js (13-14), TypeScript, Vue.js
-Cloud:     AWS (ECS Fargate, RDS, S3, CloudFront, Lambda)
-DevOps:    Docker, CI/CD (GitHub Actions), Infrastructure as Code
-Databases: MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch
-AI:        OpenAI API integration, prompt engineering
-```
+**19+ years building web products. Not just writing code—building companies, leading teams, shipping things that matter.**
 
 ---
 
-## 🚀 Recent Achievements
+## Currently Seeking
+
+Tech Lead role in **early-stage startup** (5-20 people) where I can:
+- Own technical direction and architecture decisions
+- Contribute to product strategy
+- Lead and mentor development team
+- Grow with the company through equity participation
+
+**Remote-first preferred | Open to relocation**
+
+---
+
+## My Journey
+
+In 2006, I founded my own agency. Grew it to **15 people**. Delivered **$2M+** in projects. Learned how to hire, lead, and make hard decisions fast.
+
+Today I architect platforms for **25 Volvo dealerships** across Europe. **150K+ monthly users**. **€2M+ in transactions**. Reduced costs by **30%** while improving performance by **65%**.
+
+At 50, I know exactly what I want: **Tech Lead role in early-stage startup**. Small team. Real ownership. Product decisions, not just ticket completion.
+
+---
+
+## Recent Impact
 
 - Architected platform serving **150K+ monthly users** processing **€2M+ GMV**
 - Reduced page load time by **65%** (4.2s → 1.5s) and infrastructure costs by **30%**
 - Built multi-tenant SaaS serving **20+ venues** with **99.9% uptime**
-- Implemented AI-powered features using OpenAI GPT-4 with **60% cost optimization**
-- Founded and scaled development agency to **15+ employees**, delivered **$2M+** in projects
+- Integrated OpenAI GPT-4 with **60% cost optimization**
+- Founded agency: **15+ employees**, **$2M+ delivered**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
+
+```yaml
+Backend:    Laravel (8-11), Node.js, RESTful APIs, GraphQL
+Frontend:   React.js, Next.js 13-14, TypeScript, Vue.js
+Cloud:      AWS (ECS Fargate, RDS, S3, CloudFront, Lambda)
+DevOps:     Docker, CI/CD, Infrastructure as Code
+Databases:  PostgreSQL, MySQL, MongoDB, Redis, Elasticsearch
+AI:         OpenAI API integration, prompt engineering
+```
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 ### [Subglish.com](https://subglish.com) - English Learning Platform
-Interactive platform with video subtitle synchronization for language learning
-- **Stack:** React, Laravel, FFmpeg, AWS (S3, CloudFront, SQS), Docker
-- **Features:** Video processing pipeline, spaced repetition algorithm, progress tracking
+Interactive platform with video subtitle synchronization
+- **Stack:** React, Laravel, FFmpeg, AWS, Docker
+- **Features:** Video processing pipeline, spaced repetition algorithm
 
-### [Booktivity.io](https://booktivity.io) - Multi-tenant Booking SaaS
-Complex booking management system for activity venues
-- **Stack:** Laravel, React, Elasticsearch, AWS (EC2, RDS, ElastiCache)
+### Booktivity.io - Multi-tenant Booking SaaS
+Complex booking management for activity venues
+- **Stack:** Laravel, React, Elasticsearch, AWS
 - **Scale:** 20+ venues, 50K+ bookings, 1K+ concurrent users
 
-### [Arber.ua](https://arber.ua) - E-commerce Platform
-Outdoor equipment e-commerce with 1C accounting integration
+### Arber.ua - E-commerce Platform
+Outdoor equipment e-commerce with 1C integration
 - **Stack:** Laravel, Next.js, PostgreSQL, Redis
-- **Integration:** 1C API, Stripe, Adyen payment gateways
-- **Volume:** $500K+ monthly transactions, 10K+ SKUs
+- **Volume:** $500K+ monthly, 10K+ SKUs
 
 ### AI Numerology SaaS
-GPT-4 powered report generation platform
+GPT-4 powered report generation
 - **Stack:** Laravel, React, OpenAI API, Stripe
-- **Achievement:** 1,000+ reports monthly, 60% API cost reduction through optimization
+- **Result:** 1,000+ reports/month, 60% API cost reduction
 
 ---
 
-## Currently Working At
+## Currently
 
-**HyperCharge (XPower, Belgium)** | Full Stack Developer | _June 2021 - Present_
+**HyperCharge (XPower, Belgium)** | Technical Lead | _June 2021 - Present_
 
-Building React/Next.js platforms for 25 Volvo dealerships across Europe
-- Managing AWS infrastructure (ECS Fargate, RDS Multi-AZ, CloudFront)
-- Leading CI/CD implementation and technical SEO optimization
-- Achieved 120% organic traffic growth with 95+ Core Web Vitals score
+Building platforms for 25 Volvo dealerships across Europe
+- 150K+ monthly users, €2M+ GMV
+- AWS infrastructure (ECS, RDS, CloudFront)
+- 99.9% uptime, 65% faster, 30% cheaper
 
 ---
 
-## What I'm Looking For
+## Beyond Code
 
-Tech Lead role in **early-stage product startup** (5-20 people) where I can:
-- Architect scalable systems and make technical decisions
-- Contribute to product strategy and direction
-- Lead and mentor development team
-- Grow with the company through equity participation
+Father of three. My youngest daughter (9) is my biggest motivation to keep pushing forward, tackling harder challenges, reaching new horizons.
 
-**Preferred:** Remote-first, Laravel/React/AWS stack, SaaS/E-commerce/Fintech
+When not coding, I'm in my workshop—**welding and metalworking**. Building with steel or React components—I'm happiest when creating something tangible.
 
 ---
 
@@ -104,14 +114,14 @@ Tech Lead role in **early-stage product startup** (5-20 people) where I can:
 
 ## Resume
 
- [Download my CV](https://novikov.ua/cv) |  [View on LinkedIn](https://linkedin.com/in/terminovo)
+[Download my CV](https://novikov.ua/cv) | [View on LinkedIn](https://linkedin.com/in/terminovo)
 
 ---
 
-** Open to opportunities** | English: Intermediate (B1+) | Remote-first | $4,500+ monthly
+** Open to Tech Lead opportunities** | English: B1+ | Remote-first
 
 ---
 
 <p align="center">
-  <i>Building scalable web applications since 2006</i>
+  <i>I'm not looking for a job. I'm looking for the right company to help build.</i>
 </p>
