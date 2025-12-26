@@ -77,9 +77,9 @@ Outdoor equipment e-commerce with 1C integration
 - **Stack:** Laravel, Next.js, PostgreSQL, Redis
 - **Volume:** $500K+ monthly, 10K+ SKUs
 
-### AI Numerology SaaS
+### [CouplesCompatibility.com](https://CouplesCompatibility.com) - AI Numerology SaaS
 GPT-4 powered report generation
-- **Stack:** Laravel, React, OpenAI API, Stripe
+- **Stack:** Laravel, OpenAI API, Stripe, Wordpress
 - **Result:** 1,000+ reports/month, 60% API cost reduction
 
 ---
